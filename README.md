@@ -1,0 +1,1 @@
+Using conceptual-graphs as knowledge representation walkdown using Grafeno library. Check `Conceptual Graphs VIsualization.ipynb` for a sample graph created.  
